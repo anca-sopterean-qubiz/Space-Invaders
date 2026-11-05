@@ -1,0 +1,13 @@
+{
+  "name": "space-invaders-e2e",
+  "version": "1.0.0",
+  "description": "Playwright end-to-end tests for the Space Invaders game (test harness only; application files are untouched).",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.61.1"
+  }
+}
