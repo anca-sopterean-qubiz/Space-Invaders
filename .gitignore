@@ -1,0 +1,8 @@
+# Node / Playwright test harness artifacts (test infra only; app files are untouched)
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/results.json
+/.last-run.json
