@@ -1,0 +1,24 @@
+{
+  "name": "space-invaders",
+  "version": "1.0.0",
+  "description": "In my \"Space Invaders\" game, developed using JavaScript, HTML5 Canvas, and modular JavaScript files, players control a spaceship to defend against waves of alien invaders. The game is rendered using the HTML5 Canvas element, offering smooth animations and dynamic visuals. Key features include:",
+  "main": "app.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anca-sopterean-qubiz/Space-Invaders.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anca-sopterean-qubiz/Space-Invaders/issues"
+  },
+  "homepage": "https://github.com/anca-sopterean-qubiz/Space-Invaders#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "http-server": "^14.1.1"
+  }
+}
